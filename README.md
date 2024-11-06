@@ -20,8 +20,13 @@ https://drive.google.com/drive/folders/1JokishrwZFV7nYw-GZlNIU-iut85xlxy?usp=sha
 
 ### Curso Phyton
 
+#### Descripción Breve Para Usar Los Conocimientos Adquiridos En El Curso De Phyton
+El curso de Phtyon en NetAcad me dejó grandes conocimientos, los cuales podré implementar en el desarrollo de actividades en la materia de Principios de IoT, como cuando realizamos circuitos, el curso me ayudará a poder realizar el código para darle funcionalidad a mi circuito. Algunos casos donde podré utilar mis conocimientos adquiridos serían: Creación de métodos y funciones, declaración de variables, el uso de bucles (for, while, do while), uso de condiciones (if, switch), importación de librerias, compilación de mi código y muchas cosas más.
 
-#### Capturas de Pantalla (Evidencia)
+### Uso De Phyton En Mi Proyecto
+Dentro de mi proyecto utilizaré phyton para algunos factores que ya mencione, como la creación de funciones, métodos, declaración de variables, etc. Ya que desde mi punto de vista, phyton es el lenguaje de programación más practico y el cual me gustaria usar en mi proyecto.
+
+#### Capturas De Pantalla (Evidencia)
 https://drive.google.com/drive/folders/1Yzu7udz18fxVK25N2k5A9MutadKtS9U4?usp=sharing
 
 ## Parte 5 Instrumento de Evaluación
