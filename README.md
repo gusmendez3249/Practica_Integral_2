@@ -11,63 +11,60 @@ https://drive.google.com/drive/folders/1JokishrwZFV7nYw-GZlNIU-iut85xlxy?usp=sha
 
 ## Parte 2 Instrumento de Evaluación (Actividades De Clase)
 
-####
-Descripción: Utilizamos una matriz de leds para generar mensajes establecidos en el código que se proyectaran a base de leds.
-
-Microphyton:
+#### Descripción: Utilizamos una matriz de leds para generar mensajes establecidos en el código que se proyectaran a base de leds.
 
 C: https://drive.google.com/file/d/1kX9DqxwQ5bIUam8msuoD2VVzrIaFFpJ0/view?usp=sharing
 
-####
-Descripción: Con la pantalla Max 7219 hacemos que se proyecte algún texto que se estableció en código.
+#### Descripción: Con la pantalla Max 7219 hacemos que se proyecte algún texto que se estableció en código.
 
 Microphyton: https://drive.google.com/file/d/1KEkRO1DXnh-W3bWV-zuE9nyNWULHgPtF/view?usp=sharing
 
-C:
-
-####
-Descripción: Utilizamos un motor de pasos para ver su funcionalidad y con ayuda del código hacer que gire de izquierda a derecha y al reves.
+#### Descripción: Utilizamos un motor de pasos para ver su funcionalidad y con ayuda del código hacer que gire de izquierda a derecha y al reves.
 
 Microphyton: https://drive.google.com/file/d/1zJgmfpoz-mzbF9S71V8qpBnKKuUHWcPT/view?usp=drive_link
 
 C: https://drive.google.com/file/d/1SH6TXheMffU64tAHxQWLZN3zr0QRbAIx/view?usp=drive_link
 
-####
-Descripción: Usando una palanca, aplicamos el código para que dependiendo hacia donde se moviera la palanca enciendeira un color del led RGB.
+#### Descripción: Usando una palanca, aplicamos el código para que dependiendo hacia donde se moviera la palanca enciendeira un color del led RGB.
 
 Microphyton: https://drive.google.com/file/d/15hC0yOtkm7TwcXR92r-YwN2Aeq0DDO6c/view?usp=drive_link
 
 C: https://drive.google.com/file/d/1agL0V8RYt79iB8kdGsNrmlLdmVRFGuE6/view?usp=drive_link
 
-####
-Descripción: Usando el potenciometro junto con una pantalla de leds, verificamos como funciona y como puede mover el porcentaje dependiendo como lo ajustemos.
+#### Descripción: Usando el potenciometro junto con una pantalla de leds, verificamos como funciona y como puede mover el porcentaje dependiendo como lo ajustemos.
 
 Microphyton: https://drive.google.com/file/d/1lS8SM9iWKRG7FbkZE3xgzuJYFdzbwYxr/view?usp=drive_link
 
 C: https://drive.google.com/file/d/1xlnPjJ-ERnlrCvSb8rE8E96TPn1SudV7/view?usp=drive_link
 
-####
-Descripción: Utilizando nuevamente el potenciometro pero ahora con una matriz de leds, verificamos su funcionamiento.
+#### Descripción: Utilizando nuevamente el potenciometro pero ahora con una matriz de leds, verificamos su funcionamiento.
 
 Microphyton: https://drive.google.com/file/d/13R-FtDmlpkvHRvq7TGx2nu4ifFQK26pI/view?usp=drive_link
 
-C
+#### Descripción: Utilizando un botón y leds, verificamos que funcione el código para que al momento de precionar el botón se enciendan o apaguen los leds. 
 
-####
-Descripción:
+Microphyton: 
 
-Microphyton
+C: https://drive.google.com/file/d/1K-xuL9i9vXndAhBbA9Gh1EqoqR1ss1Yk/view?usp=drive_link
 
-C
+#### Descripción
 
-####
-Descripción: Usando un sensor y una Max 7219,  verificamos que marcara la distancia dependiendo lo que marcará el sensor
+Microphyton: https://drive.google.com/file/d/1S2zhD-7hPAp233vGGQiIBqiQkYqjY7Z0/view?usp=drive_link
+
+#### Descripción: Usando un sensor y una Max 7219,  verificamos que marcara la distancia dependiendo lo que marcará el sensor
 
 Microphyton: https://drive.google.com/file/d/1GHoQonF65HBO89tomGc6vDmHs0BYqgen/view?usp=drive_link
 
-C
+#### Descripción: Aquí utilizamos un servo para simular el abrir y cerrar una ventana con un movimiento de 0, 90 y 180 grados.
 
+  Microphyton: https://drive.google.com/file/d/19ajo3YOwdx1ytucFkyRqKL84YoLF7gLO/view?usp=drive_link
 
+#### Descripción: En estos videos utilizamos un buzzer para componer notas musicales
+
+  Microphyton: https://drive.google.com/file/d/1DldZ57ouqBlon61slGEGoqkJPegIi6cm/view?usp=drive_link
+
+  C: https://drive.google.com/file/d/1NtWvJRrG4T3q9Bk3K9uNdZ4MoSCZuO9E/view?usp=drive_link
+ 
 ## Parte 3 Instrumento de Evaluación (Proyecto Navideño)
 ### Avances De Proyecto Navideño
 
