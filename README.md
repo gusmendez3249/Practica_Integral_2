@@ -47,7 +47,7 @@ Microphyton:
 
 C: https://drive.google.com/file/d/1K-xuL9i9vXndAhBbA9Gh1EqoqR1ss1Yk/view?usp=drive_link
 
-#### Descripción
+#### Descripción: En este video utilizamos un sensor con leds de color rojo, verde y blanco para medir la distancia y dependiendo la distancia encendera un led en especifico
 
 Microphyton: https://drive.google.com/file/d/1S2zhD-7hPAp233vGGQiIBqiQkYqjY7Z0/view?usp=drive_link
 
