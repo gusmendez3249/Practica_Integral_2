@@ -12,9 +12,44 @@ https://drive.google.com/drive/folders/1JokishrwZFV7nYw-GZlNIU-iut85xlxy?usp=sha
 ## Parte 2 Instrumento de Evaluación (Actividades De Clase)
 
 ####
-Descripción:
+Descripción: Utilizamos una matriz de leds para generar mensajes establecidos en el código que se proyectaran a base de leds.
 
-Microphyton
+Microphyton:
+
+C: https://drive.google.com/file/d/1kX9DqxwQ5bIUam8msuoD2VVzrIaFFpJ0/view?usp=sharing
+
+####
+Descripción: Con la pantalla Max 7219 hacemos que se proyecte algún texto que se estableció en código.
+
+Microphyton: https://drive.google.com/file/d/1KEkRO1DXnh-W3bWV-zuE9nyNWULHgPtF/view?usp=sharing
+
+C:
+
+####
+Descripción: Utilizamos un motor de pasos para ver su funcionalidad y con ayuda del código hacer que gire de izquierda a derecha y al reves.
+
+Microphyton: https://drive.google.com/file/d/1zJgmfpoz-mzbF9S71V8qpBnKKuUHWcPT/view?usp=drive_link
+
+C: https://drive.google.com/file/d/1SH6TXheMffU64tAHxQWLZN3zr0QRbAIx/view?usp=drive_link
+
+####
+Descripción: Usando una palanca, aplicamos el código para que dependiendo hacia donde se moviera la palanca enciendeira un color del led RGB.
+
+Microphyton: https://drive.google.com/file/d/15hC0yOtkm7TwcXR92r-YwN2Aeq0DDO6c/view?usp=drive_link
+
+C: https://drive.google.com/file/d/1agL0V8RYt79iB8kdGsNrmlLdmVRFGuE6/view?usp=drive_link
+
+####
+Descripción: Usando el potenciometro junto con una pantalla de leds, verificamos como funciona y como puede mover el porcentaje dependiendo como lo ajustemos.
+
+Microphyton: https://drive.google.com/file/d/1lS8SM9iWKRG7FbkZE3xgzuJYFdzbwYxr/view?usp=drive_link
+
+C: https://drive.google.com/file/d/1xlnPjJ-ERnlrCvSb8rE8E96TPn1SudV7/view?usp=drive_link
+
+####
+Descripción: Utilizando nuevamente el potenciometro pero ahora con una matriz de leds, verificamos su funcionamiento.
+
+Microphyton: https://drive.google.com/file/d/13R-FtDmlpkvHRvq7TGx2nu4ifFQK26pI/view?usp=drive_link
 
 C
 
@@ -26,44 +61,9 @@ Microphyton
 C
 
 ####
-Descripción:
+Descripción: Usando un sensor y una Max 7219,  verificamos que marcara la distancia dependiendo lo que marcará el sensor
 
-Microphyton
-
-C
-
-####
-Descripción:
-
-Microphyton
-
-C
-
-####
-Descripción:
-
-Microphyton
-
-C
-
-####
-Descripción:
-
-Microphyton
-
-C
-
-####
-Descripción:
-
-Microphyton
-
-C
-
-####
-Descripción:
-
-Microphyton
+Microphyton: https://drive.google.com/file/d/1GHoQonF65HBO89tomGc6vDmHs0BYqgen/view?usp=drive_link
 
 C
 
